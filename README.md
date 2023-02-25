@@ -7,9 +7,9 @@
 
 - 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
 
-- 💬 Ask me about **Deep Learning, AI, Computer Vision, Robotics**
+- 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
 
-- 📫 How to reach me **thecodinglibraryyt@gmail.com**
+- 📫 Business inquiries **thecodinglibraryyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
