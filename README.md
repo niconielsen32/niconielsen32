@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nielsencv_ai" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="nielsencv_ai" /></a> </p>
 
-- 📷 I post videos and tutorials on [https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
+- 📷 I post videos and tutorials on [Nicolai Nielsen - Computer Vision & AI](https://www.youtube.com/channel/UCpABUkWm8xMt5XmGcFb3EFg)
 
 - 💬 Ask me about **Deep Learning, AI, Computer Vision, Robotics**
 
