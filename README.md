@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolai Nielsen</h1>
+<h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 20k+ People Build ML Pipelines and Computer Vision Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
